@@ -12,7 +12,7 @@ public class Lab020 {
         if(user_input>10){
             System.out.println("Number is greater than 10");
         }else{
-            System.out.println("Number is lesser than 10");
+            System.out.println("Number is equal to or lesser than 10");
         }
     }
 }
